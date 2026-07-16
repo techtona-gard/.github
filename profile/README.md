@@ -61,10 +61,10 @@ Sistem GARD dibangun dengan arsitektur terdistribusi yang memisahkan antarmuka p
 
 ## The Team
 
-- **Jati Sri Pamungkas** — Backend Engineer (gard-be)
-- **Gede Brawidya Puja Dharma** — Mobile Developer (gard-fe)
-- **Arya Andrean Pratama** — Mobile Developer (gard-fe)
-- **Rifki Bayu Ariyanto** — AI Software Architect (gard-agent)
+- [**Jati Sri Pamungkas**](https://github.com/JatiSriPamungkas) — Backend Engineer (gard-be)
+- [**Gede Brawidya Puja Dharma**](https://github.com/GedeBrawidya) — Mobile Developer (gard-fe)
+- [**Arya Andrean Pratama**](https://github.com/aryaandreanpratama0-cpu) — Mobile Developer (gard-fe)
+- [**Rifki Bayu Ariyanto**](https://github.com/rifkibayuariy) — AI Software Architect (gard-agent)
 
 ---
 
